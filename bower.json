@@ -1,0 +1,32 @@
+{
+  "name": "d3-datasheets",
+  "version": "0.0.1",
+  "description": "stylesheets for d3js",
+  "main": "src/datasheet.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "d3js",
+    "stylesheets",
+    "datasheets",
+    "css"
+  ],
+  "authors": [
+    "Pranav Ram"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "lodash": "~3.10.0"
+  }
+}
